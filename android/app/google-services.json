@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "928884509564",
+    "firebase_url": "https://grop-a3060-default-rtdb.firebaseio.com",
+    "project_id": "grop-a3060",
+    "storage_bucket": "grop-a3060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928884509564:android:b422209c81cb0b11e2b2f9",
+        "android_client_info": {
+          "package_name": "com.example.grop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_Jm94iK23-FX6j2_pZcl3fNiWilkwSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
